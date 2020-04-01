@@ -1,0 +1,9 @@
+{
+  "name": "basic-gulp",
+  "version": "1.0.0",
+  "description": "basic development by gulp",
+  "main": "index.js",
+  "repository": "https://github.com/acornim/-basic-gulp.git",
+  "author": "acornim <youn_306@naver.com>",
+  "license": "MIT"
+}
